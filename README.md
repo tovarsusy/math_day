@@ -1,1 +1,3 @@
-# math_day
+# Big Jumps or Little Steps: Fighting Gerrymandering with Random Walks (Math Day)
+
+Political gerrymandering is a complex and pressing threat to our system of government.  At the heart of our difficulties to fairly divide ourselves in voting district lies a math problem – how do we measure fairness? How can we use that measure to help draw fair district boundaries?  Our project is part of nationwide collaboration of mathematicians, demographers, lawyers, mapmakers, political leaders, and citizens attempting to develop tools for this purpose.  We will survey Markov Chain Monte Carlo (MCMC) methods used successfully in the PA Supreme Court case, work to make MCMC more widely available via the Python package GerryChain, and a recent improvement to MCMC called recombination. 
